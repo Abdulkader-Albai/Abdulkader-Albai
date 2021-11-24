@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abdulkader-Albai
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me : AAlbai@protonmail.com
