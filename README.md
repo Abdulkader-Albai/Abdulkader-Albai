@@ -5,7 +5,6 @@
 
 - 🔭 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning ReactJs 
-- 👯 I'm looking for a place to apply my skills and gain more knowledge 
 - 🥅 2021 Goals: learn more, work hard, and become part of an experienced team 
 
 
