@@ -27,15 +27,15 @@
 <img align="left" alt="Rest" width="26px" src="https://img.icons8.com/color-glass/48/000000/api-settings.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="jQuery" width="26px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png"/>
 <img align="left" alt="SharePoint" width="26px" src="https://img.icons8.com/fluency/48/000000/microsoft-sharepoint-2019.png"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="jQuery" width="26px" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
 
