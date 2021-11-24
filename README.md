@@ -1,17 +1,12 @@
 ### Hi there, I'm Abdulkader 👋 
 
-[comment]: <> ([![Website]&#40;https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com&#41;]&#40;https://codestackr.com&#41;)
 
-[comment]: <> ([![Twitter Follow]&#40;https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge&#41;]&#40;https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr&#41;)
-
-## I'm a junior web developer !
+## I'm a web developer !
 
 - 🔭 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: expand my horizons, learn more, and work hard
+- 🥅 2021 Goals: learn more, work hard, and become part of an experienced team 
 
-[comment]: <> (- ⚡ Fun fact: I love to draw and play guitar / drums)
 
 ### Connect with me:
 
