@@ -4,8 +4,6 @@
 ## I'm a web developer !
 
 - 🔭 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning ReactJs 
-- 🥅 2021 Goals: learn more, work hard, and become part of an experienced team 
 
 
 ### Connect with me:
